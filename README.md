@@ -9,7 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Akeresuleman/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Akeresuleman/azure-network-protocols)
-
+- <b>VPNs (Virtual Private Network) </b>
+  - [VPN: Setting up and Utilizing VPN](https://github.com/Akeresuleman/osticket-prereqs)
+  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/akere_nick?s=21&t=iL12z-vyrygC4j8la7bQ9A)
