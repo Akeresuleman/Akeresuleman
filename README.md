@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Akeresuleman/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Akeresuleman/azure-network-protocols)
 - <b>VPNs (Virtual Private Network) </b>
-  - [Setting up and Utilizing VPN](https://github.com/Akeresuleman/osticket-prereqs)
+  - [Setting up and Utilizing VPN](https://github.com/Akeresuleman/VPN-Virtual-Private-Network)
   
 <h2>🤳Connect with me:</h2>
 
